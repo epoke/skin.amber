@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<addon id="skin.amber" version="1.5.6" name="Amber" provider-name="Pecinko">
+<addon id="skin.amber.korean" version="1.5.6" name="Amber Korean" provider-name="XBMC-Korea.com">
   <requires>
     <import addon="xbmc.gui" version="5.0.1"/>
     <import addon="script.favourites" version="3.2.0"/>
@@ -13,6 +13,9 @@
   </extension>
   <extension point="xbmc.addon.metadata">
     <platform>all</platform>
-    <description>No bloatware, just your media with easy to navigate interface.[CR]Uses some textures from Mediastream and Aeon skin.</description>
+    <summary lang="en">Korean modified skin of Pecinko's Amber Skin</summary>
+    <summary lang="ko">한글 지원을 위해 수정된 Amber Korean </summary>
+    <description lang="en">Amber Korean is based on Amber by Pecinko. This modified skin works in XBMC-Korean build only. Do not install if you are not using XBMC-Korean build. </description>
+    <description lang="ko">Amber Korean 스킨은 Pecinko의 Amber 스킨을 한글환경에 맞추어 수정한 것입니다.</description>
   </extension>
 </addon>
